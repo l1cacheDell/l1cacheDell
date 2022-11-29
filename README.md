@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Samurai_BUPT
 means where my journey of coding get started.
 
-A romantic coder, loves summer, mid-summer night, warm wind with gold sunset🌆
+A romantic coder, loves mid-summer night, warm wind with gold sunset🌆
 ## Eacademic qualifications
 - High school: Bashu Secondary school, Chongqing, China
 - Bachelor Degree: Beijing University of Posts and Telecommunications, Beijing, China
