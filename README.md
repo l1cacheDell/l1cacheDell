@@ -32,7 +32,7 @@ A romantic coder, loves summer, mid-summer night, warm wind with gold sunset🌆
 # Why I use python
 My starting language is C++, and I considered C++ the best programming language and despise any other languages. I have heard that Linus Torvalds considers C++ the worst language, but I was still immersed in the coolest grammar C++ contains.
 
-As time went by and my programming knowledge got deeper, I gradually knew that a lot of things need to be take into consideration when developing software or something else except **Speed**. C++ is quick when running but not quick in developing because many needs to be defined and rewritten. Garbage-Collection should also be considered. in short, C++ has countless limitations.
+As time went by and my programming knowledge got deeper, I gradually knew that a lot of things need to be considered when developing software except **Speed**. C++ is quick when running but not quick in developing because many wheels needs to be defined and rewritten. Garbage-Collection should also be considered, which C++ doesn't contain. in short, C++ has countless limitations.
 > Life is short, I use python.
 
 > Velified python when youthful; Understand python when growing up; Use python when getting mature.
