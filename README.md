@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 # Profile
 ## Samurai_BUPT
-BUPT means where my journey of coding get started.
-A romantic coder, loves mid-summer night, warm wind with gold sunset🌆
+BUPT means where my journey of coding get started.🌆
 ## Contact
 If you have any new and energetic idea, or just want to chat with me, here are my contact information:
 - E-mail: d31409163@163.com
