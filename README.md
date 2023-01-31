@@ -28,7 +28,7 @@ If you have any new and energetic idea, or just want to chat with me, here are m
 - Python Web with Vue and Flask
 - Deep learning in Computer Vision
 - Computer Game Design & Reverse engineering
+- Shell Script & Linux
 - PCB design
-# YHugRoad is gejiba
 
 
