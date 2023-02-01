@@ -23,7 +23,7 @@ If you have any new and energetic idea, or just want to chat with me, here are m
 ## Educational background
 - High school: Bashu Secondary school, Chongqing, China
 - Bachelor Degree: Beijing University of Posts and Telecommunications, Beijing, China
-## Computer skills
+## Stack
 - Python data science and **Mathematical modeling**
 - Python Web with Vue and Flask
 - Deep learning in Computer Vision
