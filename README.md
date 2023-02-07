@@ -25,8 +25,8 @@ If you have any new and energetic idea, or just want to chat with me, here are m
 - Bachelor Degree: Beijing University of Posts and Telecommunications, Beijing, China
 ## Stack
 - Python data science and **Mathematical modeling**
-- Python Web with Vue and Flask
-- Deep learning in Computer Vision
+- Python Web(**Flask**) with basic html
+- AI: Deep learning in Computer Vision
 - Computer Game Design & Reverse engineering
 - Shell Script & Linux
 - PCB design
