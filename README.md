@@ -30,5 +30,6 @@ If you have any new and energetic idea, or just want to chat with me, here are m
 - Computer Game Design & Reverse engineering
 - Shell Script & Linux
 - PCB design
+###
 
 
