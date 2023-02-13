@@ -15,14 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Profile
-## Samurai_BUPT
-BUPT means where my journey of coding get started.🌆
 ## Contact
 If you have any new and energetic idea, or just want to chat with me, here are my contact information:
 - E-mail: d31409163@163.com
-## Educational background
-- High school: Bashu Secondary school, Chongqing, China
-- Bachelor Degree: Beijing University of Posts and Telecommunications, Beijing, China
 ## Stack
 - Python data science and **Mathematical modeling**
 - Python Web(**Flask**) with basic html
