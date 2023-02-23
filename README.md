@@ -23,6 +23,7 @@ If you have any new and energetic idea, or just want to chat with me, here are m
 - Python Web(**Flask**) with basic html
 - AI: Deep learning in Computer Vision
 - Computer Game Design & Reverse engineering
+- Golang Web programming
 - Shell Script & Linux
 - PCB design
 ###
