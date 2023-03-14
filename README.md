@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 ## Contact
 If you have any new and energetic idea, or just want to chat with me, here are my contact information:
 - E-mail: d31409163@163.com
-## Stack
+## My Skills
 - Python data science and **Mathematical modeling**
-- Python Web(**Flask**) with basic html
-- AI: Deep learning in Computer Vision
-- Computer Game Design & Reverse engineering
+- Python Web(**Flask**)
+- AI: Deep learning
 - Golang Web programming
-- Shell Script & Linux Operating System Kernel
+- Linux Shell & Operating System Kernel design
 - PCB design
 ###
