@@ -24,3 +24,4 @@ If you have any new and energetic idea, or just want to chat with me, here are m
 - Linux Shell & Operating System Kernel design
 - PCB design
 ###
+
