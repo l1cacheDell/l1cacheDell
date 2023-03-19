@@ -19,7 +19,7 @@ If you have any new and energetic idea, or just want to chat with me, here are m
 ## My Skills
 - Python data science and **Mathematical modeling**
 - Python Web(**Flask**)
-- AI: Deep learning (computer vision)
+- AI: Deep learning (**C**omputer **V**ision)
 - Golang Web programming
 - Linux Shell & Operating System Kernel design
 - PCB design
