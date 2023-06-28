@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 If you have any new and energetic idea, or just want to chat with me, here are my contact information:
 - E-mail: d31409163@163.com
 ## My Skills
+- C++ low-level programming
 - Python data science and **Mathematical modeling**
 - Python Web(**Flask**)
 - AI: Deep learning (**C**omputer **V**ision)
-- Golang Web programming
 - Linux Shell & Operating System Kernel design
-- PCB design
 ###
 
