@@ -22,4 +22,3 @@ If you have any new and energetic idea, or just want to chat with me, here are m
 - AI: Deep learning (**C**omputer **V**ision)
 - Linux Shell & Operating System Kernel design
 ###
-
