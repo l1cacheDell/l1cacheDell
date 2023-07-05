@@ -12,13 +12,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Profile
+## Blog
+To know further about the technique knowledge I've shared and myself, please click [here](https://samuraibupt.github.io/) to view my blogs.
+
+Pure paper-like blogs can make you focus more on the content and knowledge shared.
 ## Contact
 If you have any new and energetic idea, or just want to chat with me, here are my contact information:
 - E-mail: d31409163@163.com
-## My Skills
+## Skills
 - C++ low-level programming
 - Python data science and **Mathematical modeling**
-- Python Web(**Flask**)
-- AI: Deep learning (**C**omputer **V**ision)
-- Linux Shell & Operating System Kernel design
+- AI: Deep learning && Inference System
 ###
