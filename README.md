@@ -11,22 +11,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 <center>
   <img src="https://github-readme-stats.vercel.app/api?username=SamuraiBUPT">
 </center>
 
 
-<p align="center">
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SamuraiBUPT.SamuraiBUPT" alt="visitor badge"/>       
-</p>
-
-</p> -->
-
 # Profile
 ## Blog
-To know further about the technique knowledge I've shared and myself, please click [here](https://samuraibupt.github.io/) to view my blogs.
+To know further about the technique knowledge I've shared and myself, please click [here](https://samuraibupt.github.io/) to view my blogs.       
 
 Pure paper-like blogs can make you focus more on the content and knowledge shared.
 ## Contact
