@@ -25,4 +25,5 @@ If you have any new and energetic idea, or just want to chat with me, here are m
 - C++ low-level programming
 - Python data science and **Mathematical modeling**
 - AI: Deep learning && Inference System
+- Javascript rookie
 ###
