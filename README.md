@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 
 
 # Profile
-## Blog
-To know further about the technique knowledge I've shared and myself, please click [here](https://samuraibupt.github.io/) to view my blogs.       
-
-All useful information have been stored in my personal blogs.
 ## Contact
 If you have any new and energetic idea, or just want to chat with me, here are my contact information:
 - E-mail: d31409163@163.com
