@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 ## Contact
 If you have any new and energetic idea, or just want to chat with me, here are my contact information:
 - E-mail: d31409163@163.com
+
 ## Code
-- C++ low-level programming (cuda op)
-- Python programming for LLM inference system
-- Javascript rookie
-###
+- **Low-Level:** C++ programming & cuda op
+- **Logic-level:** Python programming for LLM inference system
+- **Application-level:**
+  - Lua for faster and easier implement
+  - Javascript rookie
+
+  
