@@ -7,5 +7,5 @@ If you have any new and energetic idea, or just want to chat with me, here are m
 Love C++ & Python programming, for:
 
 + **LLM inference system**
-+ Web applications (server building)
++ Web Server building
 + Javascript & Vue rookie
