@@ -1,9 +1,10 @@
 ## Intro
-Love C++ CUDA and Python programming, for:
+Use C++ CUDA and Python programming, for:
 
 + **LLM inference system**
 + Web Server building
-+ Javascript Rookie
+
+I am currently learning functional programming.
 
 ## Contact
 - E-mail: d31409163@163.com
