@@ -2,7 +2,7 @@
 Use C++ CUDA and Python programming, for:
 
 + **LLM inference system**
-+ Web Server building
++ Web Server building (software system)
 
 I am currently learning functional programming.
 
