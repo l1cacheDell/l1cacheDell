@@ -1,8 +1,8 @@
 ## Intro
 Use C++ CUDA and Python programming, for:
 
++ CUDA operators dev (High Performance Computing)
 + **LLM inference system**
-+ Web Server building (software system)
 
 I am currently interning in the [Paddle](https://www.paddlepaddle.org.cn/) R&D team at Baidu.
 
