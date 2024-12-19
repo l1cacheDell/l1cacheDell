@@ -1,10 +1,10 @@
+## Profile
+HPC dev, web3 dev, CUDA dev.
+
 ## Intro
-Use C++ CUDA and Python programming, for:
+Use C++/CUDA/Python programming, for:
 
-+ CUDA operators dev (High Performance Computing)
-+ **LLM inference system**
++ CUDA low-level operators dev (general cuda core kernels / cuBLAS / wmma / PTX/ cuTe/ cutlass)
++ **LLM inference system**, especially operator support.
 
-I am currently interning in the [Paddle](https://www.paddlepaddle.org.cn/) R&D team at Baidu.
-
-## Contact
-- E-mail: d31409163@163.com
+Currently High Performance Computing interning in the [Paddle](https://www.paddlepaddle.org.cn/) R&D team at Baidu.
