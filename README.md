@@ -4,7 +4,12 @@ HPC dev, web3 dev, CUDA dev.
 ## Intro
 Use C++/CUDA/Python programming, for:
 
-+ CUDA low-level operators dev (general cuda-core kernels, cuBLAS, wmma, PTX)
++ **SIMD** instruction set programming for CPU-side optimization (AVX/AVX2.0/AMX/SVML).
++ **CUDA** low-level operators dev (general cuda-core kernels, cuBLAS, wmma, PTX).
 + **LLM inference system**, especially hpc operator support.
 
 Currently High Performance Computing interning in the [Paddle](https://www.paddlepaddle.org.cn/) R&D team at Baidu.
+
+## Contact
+
+If there is any issue or project I can help you with, email me: yazhu00776@outlook.com.
