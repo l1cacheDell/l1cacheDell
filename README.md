@@ -4,7 +4,7 @@ HPC dev, web3 dev, CUDA dev.
 ## Intro
 Use C++/CUDA/Python programming, for:
 
-+ **SIMD** instruction set programming for CPU-side optimization (AVX/AVX2.0/AMX/SVML).
++ **SIMD** instruction set programming for CPU-side optimization (AVX/AVX2/AMX/SVML).
 + **CUDA** low-level operators dev (general cuda-core kernels, cuBLAS, wmma, PTX).
 + **LLM inference system**, especially hpc operator support.
 
