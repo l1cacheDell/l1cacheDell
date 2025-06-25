@@ -6,5 +6,9 @@ HPC dev, web3 dev, CUDA dev.
 
 Currently available on job market.
 
+## Education
++ [2025.8-] National University of Singapore (**NUS**), Computer Engineering, Msc.
++ [2021.9-2025.6] Beijing University of Posts and Telecommunications (**BUPT**), Artificial Intelligence. BEng.
+
 ## Contact
 email: yazhul1cache@gmail.com.
